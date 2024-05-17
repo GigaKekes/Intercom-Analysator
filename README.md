@@ -1,4 +1,4 @@
-# SpeechToText
+# Анализатор служебных переговоров
 
 **Completed by:**
 - Grudinin Mikhail
